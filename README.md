@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... siber güvenlik
 - 🌱 I’m currently learning 
 python
-- 💞️ I’m looking to collaborate on ...
+.
 
 - 📫 How to reach me ...
 htcsn1306@gmail.com
